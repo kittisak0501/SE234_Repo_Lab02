@@ -138,3 +138,9 @@ Hotkey:
     Markup Code appears between colons :EMOJICODE:
 
     :mask:
+
+    ## Nantipak Tathong ##
+    Nickname: Auto
+    Age: 19
+    Faculty: CAMT
+    Student ID: 632115026
