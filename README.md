@@ -139,7 +139,7 @@ Hotkey:
 
     :mask:
 
-    ## Nantipak Tathong ##
+## Nantipak Tathong ##
     Nickname: Auto
     Age: 19
     Faculty: CAMT
