@@ -137,7 +137,7 @@ Hotkey:
 
     Markup Code appears between colons :EMOJICODE:
 
-    :mask:
+  :mask:
 
 ## Nantipak Tathong ##
     Nickname: Auto
